@@ -40,11 +40,9 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Data Analyst",
-        "Business Analyst",
-        "Machine Learning Engineer",
         "Data Engineer",
-        "Data Scientist"
+        "Machine Learning Engineer",
+        "Business Analyst"
       ],
       typeSpeed: 60,
       backSpeed: 20,
@@ -53,11 +51,9 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Data Analyst",
-        "Business Analyst",
-        "Machine Learning Engineer",
         "Data Engineer",
-        "Data Scientist"
+        "Machine Learning Engineer",
+        "Business Analyst"
       ],
       typeSpeed: 60,
       backSpeed: 20,
